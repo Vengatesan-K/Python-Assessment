@@ -132,7 +132,7 @@ elif selected == "Task2":
 
 
     def main():
-        st.title('Parser for Phone Book Records')
+        st.subheader('Parser for Phone Book Records')
 
         file = st.file_uploader("Upload CSV or JSON File", type=['csv', 'json'])
         file_type = None
