@@ -1,5 +1,4 @@
 streamlit
-json
 pandas
 csv
 streamlit_option_menu
